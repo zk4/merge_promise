@@ -1,17 +1,7 @@
 {
-  "name": "axios_demo",
-  "version": "1.0.0",
-  "description": "",
-  "type":"module",
-  "main": "index.js",
+  "name": "merge_promise",
   "scripts": {
     "server": "python3 -m pip install livehttp && cd server && livehttp",
     "dev": "open index.html"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.21.1"
   }
 }
